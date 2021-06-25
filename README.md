@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<img align="left" alt="Raja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajanarasimhan&show_icons=true&&theme=tokyonight&hide_border=true&hide=stars&count_private=true&show_icons=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajanarasimhan&show_icons=true&theme=radical)
+
 
 [website]: https://rajanarasimhan.github.io
 [twitter]: https://twitter.com/raja18112000
