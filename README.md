@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there I'm [B Raja Narasimhan](https://rajanarasimhan.github.io)
+
+<!--
+**sampreet-arthi/sampreet-arthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+## I'm a third year student at [BITS Pilani KK BIRLA Goa Campus](https://www.bits-pilani.ac.in/goa/) 🏫.
+- Trying to specialize in the field of Compuster Vision 💻👁
+- Currently working on "Analysing Computer Vision methods to classify Android Malware" 
+- Love taking about cars(Top Gear and Grand Tour for life) 🚗🏎🚙
+
+## You can contact me at
+[<img align="left" alt="rajanarasimhan.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="raja18112000 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="raja-narasimhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
+
+<img align="left" alt="Raja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajanarasimhan&show_icons=true&&theme=tokyonight&hide_border=true&hide=stars&count_private=true&show_icons=true" />
+
+[website]: https://rajanarasimhan.github.io
+[twitter]: https://twitter.com/raja18112000
+[instagram]: https://instagram.com/raja_narasimhan
+[linkedin]: https://www.linkedin.com/in/raja-narasimhan-645329171/
