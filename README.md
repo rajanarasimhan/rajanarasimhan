@@ -32,9 +32,10 @@ Here are some ideas to get you started:
 -->
 
 ## I'm a third year student at [BITS Pilani KK BIRLA Goa Campus](https://www.bits-pilani.ac.in/goa/) 🏫.
-- Trying to specialize in the field of Compuster Vision 💻👁
-- Currently working on "Analysing Computer Vision methods to classify Android Malware" 
-- Love taking about cars(Top Gear and Grand Tour for life) 🚗🏎🚙
+- Trying to specialize in the field of Data Science, NLP and Compuster Vision 💻👁
+- Check out my paper in [Image-based Android Malware Detection Models using Static and Dynamic Features](https://link.springer.com/chapter/10.1007/978-3-030-96308-8_120) " 
+- Love taking about cars (OG Top Gear FTW!!!)🚗🏎🚙, history, geography etc.
+- Currently free time spent riding my Honda CB300R
 
 ## You can contact me at
 [<img align="left" alt="rajanarasimhan.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
