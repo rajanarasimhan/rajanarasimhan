@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## Currently Data Scientist II at Mastercard Pune 🏫.
 - Undergrad from BITS Pilani KK Birla Goa Campus
-- Trying to specialize in the field of Data Science, NLP and Compuster Vision 💻👁
+- Trying to specialize in the field of Data Science, NLP and Computer Vision 💻👁
 - Check out my paper in [Image-based Android Malware Detection Models using Static and Dynamic Features](https://link.springer.com/chapter/10.1007/978-3-030-96308-8_120)  
 - Love taking about cars and motorcycle (OG Top Gear FTW!!!)🚗🏎🚙 and learning history, geography, music etc.
 - Currently lot free time spent riding my Honda CB300R (but rooting for Red Bull KTM Factory Racing in MotoGP xD)
