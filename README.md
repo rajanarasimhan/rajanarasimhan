@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 - Undergrad from BITS Pilani KK Birla Goa Campus
 - Trying to specialize in the field of Data Science, NLP and Compuster Vision 💻👁
 - Check out my paper in [Image-based Android Malware Detection Models using Static and Dynamic Features](https://link.springer.com/chapter/10.1007/978-3-030-96308-8_120) " 
-- Love taking about cars (OG Top Gear FTW!!!)🚗🏎🚙, history, geography etc.
-- Currently free time spent riding my Honda CB300R
+- Love taking about cars and motorcycle (OG Top Gear FTW!!!)🚗🏎🚙 and learning history, geography, music etc.
+- Currently lot free time spent riding my Honda CB300R (but rooting for Red Bull KTM Factory Racing in MotoGP xD)
 
 ## You can contact me at
 [<img align="left" alt="rajanarasimhan.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
