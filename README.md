@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 - Check out my paper in [Image-based Android Malware Detection Models using Static and Dynamic Features](https://link.springer.com/chapter/10.1007/978-3-030-96308-8_120)  
 - Love taking about cars and motorcycle (OG Top Gear FTW!!!)🚗🏎🚙 and learning history, geography, music etc.
 - Currently lot free time spent riding my Honda CB300R (but rooting for Red Bull KTM Factory Racing in MotoGP xD)
-
-## You can contact me at
+  
+## Feel free to hit me up at
 [<img align="left" alt="rajanarasimhan.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="raja18112000 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="raja-narasimhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
