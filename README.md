@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a third year student at [BITS Pilani KK BIRLA Goa Campus](https://www.bits-pilani.ac.in/goa/) 🏫.
+## Currently Data Scientist II at Mastercard Pune 🏫.
+- Undergrad from BITS Pilani KK Birla Goa Campus
 - Trying to specialize in the field of Data Science, NLP and Compuster Vision 💻👁
 - Check out my paper in [Image-based Android Malware Detection Models using Static and Dynamic Features](https://link.springer.com/chapter/10.1007/978-3-030-96308-8_120) " 
 - Love taking about cars (OG Top Gear FTW!!!)🚗🏎🚙, history, geography etc.
@@ -45,7 +46,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajanarasimhan)](https://git.io/streak-stats)
+
 
 [website]: https://rajanarasimhan.github.io
 [twitter]: https://twitter.com/raja18112000
